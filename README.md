@@ -17,7 +17,7 @@
 https://github.com/adafruit/DHT-sensor-library
 
 DHT11のピン配置は下記の通り
-*VDD
-*DATA
-*OPEN
-*GND
+* VDD
+* DATA
+* OPEN
+* GND
